@@ -3,7 +3,8 @@
 #
 This is Real Social Distancing Detection system using yolov3 and opencv lib.
 
-# By running the code in Google colab the output is generated as shown below 
+#
+ By running the code in Google colab the output is generated as shown below 
 
 # 
 Output
